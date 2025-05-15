@@ -1,13 +1,12 @@
-Suggested Project Title
-"Automated Analysis of HSN/SAC Codes Using Python"
-Abstract
+Title:
+Automated Analysis of HSN/SAC Codes Using Python
+Abstract:
 This project aims to automate the analysis of Harmonized System of Nomenclature (HSN) and Service Accounting Codes (SAC) by leveraging Python's data processing capabilities. By reading data from an Excel file (HSN_SAC.xlsx), the application processes and extracts meaningful insights, facilitating easier interpretation and utilization of HSN/SAC codes in various business contexts. Such automation reduces manual effort, minimizes errors, and enhances efficiency in handling tax-related classifications.
+
 Technologies Used
 Programming Language: Python
 
-Libraries:
-
-pandas: For data manipulation and analysis.
+Libraries:pandas_ For data manipulation and analysis.
 
 openpyxl or xlrd: For reading Excel files.
 
